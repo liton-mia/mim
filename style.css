@@ -1,3 +1,15 @@
 body {
     font-family: 'Ubuntu', sans-serif;
 }
+
+section {
+    display: flex;
+}
+
+.header-area {
+    width: 50%;
+}
+
+.header-area img {
+    width: 80%;
+}
