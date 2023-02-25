@@ -10,6 +10,11 @@ section {
     width: 50%;
 }
 
+/* sir ami atar kotha bolsilam */
+.button {
+    background-color: brown;
+}
+
 .header-areae img {
     width: 100%;
 }
@@ -24,4 +29,13 @@ section {
 
 .header-area img {
     width: 60%;
+}
+
+.same-button {
+    background-color: brown;
+}
+
+/* ataw to kaj kore na */
+span {
+    color: aqua;
 }
